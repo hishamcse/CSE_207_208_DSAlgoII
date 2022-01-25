@@ -1,0 +1,29 @@
+Separate Chaining Technique
+
+Result For Hash Function 1:
+Number Of Collisions: 3673
+Average Probes: 1.5299999999999998
+
+Result For Hash Function 2:
+Number Of Collisions: 3712
+Average Probes: 1.487
+
+Double Hashing Technique
+
+Result For Hash Function 1:
+Number Of Collisions: 60137
+Average Probes: 6.585799999999999
+
+Result For Hash Function 2:
+Number Of Collisions: 59996
+Average Probes: 7.321000000000001
+
+Custom Probing Technique
+
+Result For Hash Function 1:
+Number Of Collisions: 61131
+Average Probes: 7.5376
+
+Result For Hash Function 2:
+Number Of Collisions: 63359
+Average Probes: 7.150799999999999

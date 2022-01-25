@@ -1,0 +1,33 @@
+Printing Binomial Heap...
+----------------------------
+----------------------------
+Inserted 1
+Inserted -1
+Inserted 100
+Printing Binomial Heap...
+----------------------------
+Binomial Tree, B0
+Level 0 :  100
+Binomial Tree, B1
+Level 0 :  1
+Level 1 :  -1
+----------------------------
+FindMax returned 100
+ExtractMax returned 100
+ExtractMax returned 1
+ExtractMax returned -1
+FindMax returned null
+Printing Binomial Heap...
+----------------------------
+----------------------------
+ExtractMax returned null
+Inserted 10
+Inserted -4
+Printing Binomial Heap...
+----------------------------
+Binomial Tree, B1
+Level 0 :  10
+Level 1 :  -4
+----------------------------
+
+Process finished with exit code 0

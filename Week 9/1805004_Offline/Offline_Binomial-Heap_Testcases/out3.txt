@@ -1,0 +1,23 @@
+FindMax returned null
+Printing Binomial Heap...
+----------------------------
+----------------------------
+Inserted 1
+ExtractMax returned 1
+Inserted 2
+Printing Binomial Heap...
+----------------------------
+Binomial Tree, B0
+Level 0 :  2
+----------------------------
+Increased 2. The updated value is 3.
+Printing Binomial Heap...
+----------------------------
+Binomial Tree, B0
+Level 0 :  3
+----------------------------
+ExtractMax returned 3
+FindMax returned null
+Printing Binomial Heap...
+----------------------------
+----------------------------

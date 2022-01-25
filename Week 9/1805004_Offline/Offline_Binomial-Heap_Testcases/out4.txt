@@ -1,0 +1,21 @@
+Inserted 5
+Inserted 3
+Inserted 20
+Printing Binomial Heap...
+----------------------------
+Binomial Tree, B0
+Level 0 :  20
+Binomial Tree, B1
+Level 0 :  5
+Level 1 :  3
+----------------------------
+ExtractMax returned 20
+Increased 3. The updated value is 16.
+ExtractMax returned 16
+ExtractMax returned 5
+Inserted 5
+Printing Binomial Heap...
+----------------------------
+Binomial Tree, B0
+Level 0 :  5
+----------------------------
