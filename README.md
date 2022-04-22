@@ -4,7 +4,7 @@ This repo contains the implementation of Offlines & Onlines and other materials 
 
 Here are the topics covered in my implemented codes:
     
-   1. Graph Algorithms(Week 2) <br />
+   1. Graph Algorithms (Week 2) <br />
    2. Graph Algorithms Online (Week 3) <br />
    3. Minimum Spanning Trees (Week 4) <br />
    4. Single Source Shortest Path (Week 5) <br />
